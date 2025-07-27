@@ -70,5 +70,14 @@
       "Great work with using git remote to add an upstream remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1753633087.144207,
+    "completed_at": 1753633087.647622,
+    "comments": [
+      "You should have made a separate commit!"
+    ],
+    "status": "Incomplete"
   }
 ]
